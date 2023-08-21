@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <h1 className="text-center">Let's have a World Tour</h1>
+      <h1 className="text-center mt-3">Let's have a World Tour</h1>
       <Countries></Countries>
       <Footer></Footer>
     </div>
